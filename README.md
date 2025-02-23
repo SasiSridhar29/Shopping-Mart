@@ -1,5 +1,7 @@
 # Shopping-Mart
 A React application properly built to demonstrate my skills toward a key to scalability, maintainability, and readability. 
+# Project Structure 
+
 /my-app
 │── /public                # Static files (index.html, images, etc.)
 │── /src                   # Main application code
@@ -16,3 +18,4 @@ A React application properly built to demonstrate my skills toward a key to scal
 │   │── index.js           # Entry point
 │── package.json           # Project dependencies
 │── README.md              # Project documentation
+
